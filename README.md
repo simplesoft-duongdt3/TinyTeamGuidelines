@@ -2,9 +2,9 @@
 
 ### Tiny Team Guidelines
 
-1. [Review code check list] (https://docs.google.com/spreadsheets/d/1vMotPikGjelBJnZgEV9v7Ugl_XQLVeoHJ4zQxXgLkbI/edit?usp=sharing)
+1. [Review code check list](https://docs.google.com/spreadsheets/d/1vMotPikGjelBJnZgEV9v7Ugl_XQLVeoHJ4zQxXgLkbI/edit?usp=sharing)
 
-2. [Small talk] (https://docs.google.com/forms/d/e/1FAIpQLSdiW52VU-xWDkXsE-2Fcg-24ufdyoRjtrr6xXQLVF9AB5UgwQ/viewform?usp=sf_link)
+2. [Small talk](https://docs.google.com/forms/d/e/1FAIpQLSdiW52VU-xWDkXsE-2Fcg-24ufdyoRjtrr6xXQLVF9AB5UgwQ/viewform?usp=sf_link)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ## Welcome to GitHub Pages 1
